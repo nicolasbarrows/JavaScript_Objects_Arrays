@@ -84,7 +84,7 @@ let csvData = "name,age\nFrodo,50\nSam,38\nMerry,36\nPippin,26";
 5. For each row, split the data values (by `,`)
 6. And create an object for each row (or table record)
 7. Assign the values from the parsed row values to `name` and `age` values on the object
-8. Add each new object to a result array (should be defined before the loop block
+8. Add each new object to a result array (should be defined before the loop block)
 
 Your final result should resemble:
 
@@ -110,3 +110,4 @@ Your final result should resemble:
 ```
 
 ---
+
